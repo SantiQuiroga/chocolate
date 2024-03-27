@@ -1,0 +1,1 @@
+{"name":"Local: Dp","url":"/home/santi/Desktop/Algoritmia/Chocolate/app/src/main/java/chocolate/Dp.java","tests":[{"id":1711565441751,"input":"8","output":"3"},{"id":1711565448277,"input":"12","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/santi/Desktop/Algoritmia/Chocolate/app/src/main/java/chocolate/Dp.java","group":"local","local":true}
